@@ -1,4 +1,4 @@
-
+# Copyright (c) 2019-2020 Bill Leezer All Rights Reserved, John Elder Class
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
